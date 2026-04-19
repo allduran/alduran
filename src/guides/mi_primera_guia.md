@@ -1,10 +1,10 @@
 # Título de la guía
 
-Introducción: explica de qué va y qué aprenderá el lector.
+Introducción: Aquí explicaré de qué va el artículo y qué aprenderá el lector.
 
 ## Sección 1
 
-Contenido. Puedes usar `código inline` o bloques:
+Contenido. Puedo usar `código inline` o bloques:
 
 ```js
 function ejemplo() {

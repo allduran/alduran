@@ -8,7 +8,7 @@ import Guide from './pages/Guide'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/alduran/">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
